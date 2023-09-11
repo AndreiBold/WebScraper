@@ -1,0 +1,17 @@
+{
+  "name": "veridioninterview",
+  "version": "1.0.0",
+  "description": "webscrapper for veridion",
+  "main": "web-scrapper.js",
+  "scripts": {
+    "start": "node web-scrapper.js"
+  },
+  "author": "Andrei Bold",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "csv-parser": "^3.0.0",
+    "fs": "^0.0.1-security",
+    "puppeteer": "^21.1.0"
+  }
+}
